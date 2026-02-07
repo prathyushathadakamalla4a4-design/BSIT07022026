@@ -89,7 +89,7 @@
                 <version>3.0.0-M5</version>
                 <configuration>
                     <suiteXmlFiles>
-                            <suiteXmlFile>First.xml</suiteXmlFile>
+                            <suiteXmlFile>practice.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
